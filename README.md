@@ -37,7 +37,7 @@ Olá! Meu nome é **Evelyn Victoria**, sou apaixonada por tecnologia e atualment
 ## 📫 Contato
 
 
-- 📧 Email: evelynvic23toria10@mail.com
+- 📧 Email: evelynvic23toria10@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/evelyn-victoria-da-silva-santos?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
 
 ---
