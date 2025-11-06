@@ -35,11 +35,7 @@ Olá! Meu nome é **Evelyn Victoria**, sou apaixonada por tecnologia e atualment
 ---
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/evelynvic23/evelynvic23/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/evelynvic23/evelynvic23/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/evelynvic23/evelynvic23/output/github-contribution-grid-snake.svg">
-</picture>
+
 
 ## 📫 Contato
 
@@ -50,3 +46,11 @@ Olá! Meu nome é **Evelyn Victoria**, sou apaixonada por tecnologia e atualment
 ---
 
 💡 *"Aprender é o primeiro passo para transformar o mundo ao nosso redor."*
+
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/evelynvic23/evelynvic23/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/evelynvic23/evelynvic23/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/evelynvic23/evelynvic23/output/github-contribution-grid-snake.svg">
+</picture>
