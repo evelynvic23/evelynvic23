@@ -6,7 +6,7 @@
 
 ## 📌 Sobre mim
 
-Olá! Meu nome é **Evelyn Victoria**, sou apaixonada por tecnologia e atualmente estou no **4º semestre do curso de Análise e Desenvolvimento de Sistemas** na **FATEC de Ferraz de Vasconcelos**. Minha trajetória educacional e profissional tem sido marcada pelo constante aprendizado e pela vontade de transformar conhecimento em soluções reais.
+Olá! Meu nome é **Evelyn Victoria**, sou apaixonada por tecnologia e atualmente estou no **5º semestre do curso de Análise e Desenvolvimento de Sistemas** na **FATEC de Ferraz de Vasconcelos**. Minha trajetória educacional e profissional tem sido marcada pelo constante aprendizado e pela vontade de transformar conhecimento em soluções reais.
 
 ---
 
