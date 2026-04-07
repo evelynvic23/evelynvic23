@@ -12,7 +12,7 @@ Olá! Meu nome é **Evelyn Victoria**, sou apaixonada por tecnologia e atualment
 
 ## 🎓 Formação Acadêmica
 
-- 🎓 **Tecnólogo em Análise e Desenvolvimento de Sistemas** — FATEC Ferraz de Vasconcelos (Cursando – 4º semestre)  
+- 🎓 **Tecnólogo em Análise e Desenvolvimento de Sistemas** — FATEC Ferraz de Vasconcelos (Cursando – 5º semestre)  
 - 🧰 **Técnico em Desenvolvimento de Sistemas** — SENAI Nami Jafet  
 - 🎮 **Técnico em Programação de Jogos Digitais** — ETEC de Ferraz de Vasconcelos  
 
