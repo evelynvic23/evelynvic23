@@ -21,8 +21,8 @@ Olá! Meu nome é **Evelyn Victoria**, sou apaixonada por tecnologia e atualment
 ## 💼 Experiência Profissional
 
 - 👩‍🏫 **Instrutora de Informática** – Atuando com ensino de ferramentas digitais e introdução à programação.  
-- 🏫 **Estágio – Anhanguera Educacional** – Suporte e manutenção.  
 - 🏛️ **Estágio em Desenvolvimento de Software – Prefeitura de Ferraz de Vasconcelos** – Participação em projetos de desenvolvimento de sistemas internos.
+- 🏛️ **Trainee Autbank.
 
 ---
 
